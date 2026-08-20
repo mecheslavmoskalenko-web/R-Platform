@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Кафе \"Шалость\"",
+    "slug": "shalost-cafe",
+    "status": "active",
+    "region": "г. Алупка",
+    "latitude": 44.420628,
+    "longitude": 34.048638,
+    "description": "locStreet | координаты из Р-Платформы, locid 611"
+  },
+  {
+    "name": "Ресторан \"Дача Аладьиной\"",
+    "slug": "aladina-dacha-restaurant",
+    "status": "active",
+    "region": "г. Алупка",
+    "description": "locStreet | координат в Р-Платформе нет"
+  },
+  {
+    "name": "Порт \"Жорж\"",
+    "slug": "zhorzh-port",
+    "status": "active",
+    "region": "г. Алупка",
+    "description": "locStreet | координат в Р-Платформе нет"
+  },
+  {
+    "name": "СКК \"Мрия\"",
+    "slug": "mriya-resort",
+    "status": "active",
+    "region": "с. Оползневое",
+    "latitude": 44.397733,
+    "longitude": 33.939971,
+    "description": "locCity | центроид по 2981 точке территории"
+  },
+  {
+    "name": "Кафе \"Забегаловка\"",
+    "slug": "zabegalovka-cafe",
+    "status": "active",
+    "region": "с. Оползневое",
+    "latitude": 44.399608,
+    "longitude": 33.943477,
+    "description": "locProvince | по данным Р-Платформы внутри территории СКК Мрия"
+  }
+]

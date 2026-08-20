@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Стойка 1",
+    "site": "СКК \"Мрия\"",
+    "location": "Помещение 2",
+    "status": "active",
+    "width": 19,
+    "u_height": 42,
+    "description": "ур. 10 | locMovebleProperty → dcim.Rack"
+  }
+]
